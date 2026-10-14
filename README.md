@@ -2,6 +2,7 @@ Executive Summary, Key Findings, Recommendations
 🍕 Pizza Sales Performance & Business Intelligence Analysis
 
 📌 Executive Summary
+
 This analysis evaluates overall sales performance, customer ordering patterns, and product category contributions to optimize operational efficiency and maximize revenue. The data reveals clear demand cycles, high-performing product segments, and opportunities for menu optimization.
 
 🔍 Key Findings & Conclusions
